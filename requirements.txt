@@ -1,0 +1,20 @@
+# Deep Learning / NLP
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+sentence-transformers==2.6.1
+
+# Data Processing
+numpy
+pandas
+
+# Database
+mysql-connector-python
+
+# API / Requests
+requests
+
+# Dashboard / Visualization
+streamlit==1.32.0
+plotly
+altair==4.2.2
